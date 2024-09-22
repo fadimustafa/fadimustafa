@@ -1,8 +1,8 @@
 ### Hi, I'm Fadi 👋
 
 
-👩🏻‍💻 I'm a web Developer passionate about learning new things and building projects with modern web technologies.<br/>
-👩🏻‍🎓 Studing Computer Science in Aljazeera private university,Damascuse Syria.<br/>
+👩🏻‍💻 I'm a web developer passionate about learning new things and building projects with modern web technologies.<br/>
+👩🏻‍🎓 Studying Computer Science at Aljazeera Private University, Damascus, Syria.<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=fadimustafa&show_icons=true&theme=transparent)<br/>
 
