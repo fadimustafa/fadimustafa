@@ -23,7 +23,7 @@ I am a **Full-Stack Developer** passionate about **Artificial Intelligence** and
 
 ## 📫 Connect with Me
 
-[GitHub](https://github.com/fadimustafa) | [Linkedin](www.linkedin.com/in/fadi-mustafa-744bb3342)
+[GitHub](https://github.com/fadimustafa) | [LinkedIn](https://www.linkedin.com/in/fadi-mustafa-fm1997)
 
 ---
 
