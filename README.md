@@ -12,9 +12,11 @@ I am a **Full-Stack Developer** passionate about **Artificial Intelligence** and
 
 ## 🔭 Current Projects
 
-- AI-powered Chatbots & Virtual Assistants  
-- Real-time Data Visualization Web Apps  
-- Route planning and mapping applications with AI enhancements
+- **Enterprise Currency Exchange Management System** – Full-stack financial platform with accounting, multi-currency transactions, reporting, cashier operations, and Docker-based deployment.
+
+- **Smart Bus Routing Management System** – Route planning and transportation management platform leveraging GIS technologies and optimization algorithms.
+
+- **Public Transit Route Finder** – Interactive web application that helps users discover optimal bus routes and navigation paths through real-time mapping and shortest-path algorithms.
 
 ## 🌱 Learning
 
